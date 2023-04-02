@@ -1,0 +1,11 @@
+﻿machineId;machineDesc;segment
+LV;Lapvibrátor;Építőipar
+LA;Lamináltvágó;Építőipar
+FK;Fűkasza;Kert
+KT;Kárpittisztító;Takarítás
+GT;Gőztisztító;Takarítás
+VG;Vésőgép;Építőipar
+GY;Gyepszellőztető;Kert
+ÁA;Ágaprító;Kert
+FZ;Falcsiszolózsiráf;Építőipar
+FH;Fűkasza;Kert
